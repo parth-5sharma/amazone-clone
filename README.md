@@ -1,1 +1,1 @@
-# flappy-birdrace
+# amazone clone
